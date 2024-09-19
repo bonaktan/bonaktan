@@ -1,7 +1,7 @@
 # 💫 About Me:
 i write specifically-formatted literature in a way that no one but my computer itself knows how to read it
-codes only when time and energy allows me to <33
-loves to play with random ideas
+- codes only when time and energy allows me to <33
+- loves to play with random ideas
 
 
 # 💻 Tech Stack:
