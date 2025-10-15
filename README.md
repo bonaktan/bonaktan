@@ -1,5 +1,5 @@
 # 💫 About Me:
-i write specifically-formatted literature in a way that no one but my computer itself knows how to read it
+i write specifically-formatted literature in a way that no one but my computer knows how to read it
 - codes only when time and energy allows me to <33
 - loves to play with random ideas
 
